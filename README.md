@@ -1,4 +1,4 @@
-I'm a game developer who makes games on Airship and am also working on Airship games as well!
+I'm a game developer who makes games with Unity and am also working on Airship games as well!
 
 ### Languages & Frameworks
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
